@@ -14,9 +14,14 @@
 **Thoughts:** Hopefully will wrap up graphs by end of this week and move on to trees. Tweaked the recursion function i am "supposed" to use and saw how it affected the whole code, then added necessary conditions to make up for the "missing" argument, instead of blindly accepting the function template.
 
 
-### Day 3: August 11,2025(Saturday)
+### Day 3: August 11,2025(Monday)
 
 **Today's Progress**: Revised graph cycle detection algorithm using bfs/dfs and bipartite graph using bfs.
 
 **Thoughts:** 
+**Link(s) to work**
+
+### Day 4: August 13,2025(Tuesday)
+
+**Today's Progress**: Revised topological sort using dfs/bfs.
 **Link(s) to work**
