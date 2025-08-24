@@ -41,14 +41,14 @@
 
 ### Day 7: August 23,2025(Saturday)
 
-**Today's Progress**: Deep copy of a graph,find the minimum area to cover all ones II
+**Today's Progress**: Deep copy of a graph,find the minimum area to cover all ones II(3197)
 **Thoughts:** used dfs+hashmap to create a deep copy of a graph. while using dfs,infinite recursion is always a possibility.
 **Link(s) to work**
 
 ### Day 8: August 24,2025(Sunday)
 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: finished find min area to cover all ones II, longest subarray of ones after deleting one elt(1493)
+**Thoughts:** look at other approaches to min area problem(i did brute force i think?), found a dsa pattern flowchart, will see if it is of any help
 **Link(s) to work**
 
 
