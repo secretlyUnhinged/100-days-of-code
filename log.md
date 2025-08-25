@@ -48,19 +48,19 @@
 ### Day 8: August 24,2025(Sunday)
 
 **Today's Progress**: finished find min area to cover all ones II, longest subarray of ones after deleting one elt(1493)
-**Thoughts:** look at other approaches to min area problem(i did brute force i think?), found a dsa pattern flowchart, will see if it is of any help
+**Thoughts:** look at other approaches to min area problem(i did brute force i think?), uses sliding window+2 pointer ,found a dsa pattern flowchart, will see if it is of any help
 **Link(s) to work**
 
 ### Day 9: August 25,2025(Monday)
 
 **Today's Progress**: diagonal traversal lc, looked into albumentations for an open source contribution to off, learnt about medclip architecture
-**Thoughts:** need to find more suitable open source issues in ml
+**Thoughts:** d=r+c and odd diag vs even diag, need to find more suitable open source issues in ml
 **Link(s) to work**
 
 ### Day 10: August 26,2025(Tuesday)
 
-**Today's Progress**: 
-**Thoughts:** 
+**Today's Progress**: search a 2d matrix lc,
+**Thoughts:** flattened and performed binary search.
 **Link(s) to work**
 
 
