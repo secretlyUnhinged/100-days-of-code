@@ -51,4 +51,18 @@
 **Thoughts:** look at other approaches to min area problem(i did brute force i think?), found a dsa pattern flowchart, will see if it is of any help
 **Link(s) to work**
 
+### Day 9: August 25,2025(Monday)
+
+**Today's Progress**: diagonal traversal lc, looked into albumentations for an open source contribution to off, learnt about medclip architecture
+**Thoughts:** need to find more suitable open source issues in ml
+**Link(s) to work**
+
+### Day 10: August 26,2025(Tuesday)
+
+**Today's Progress**: 
+**Thoughts:** 
+**Link(s) to work**
+
+
+
 
