@@ -48,7 +48,7 @@
 ### Day 8: August 24,2025(Sunday)
 
 **Today's Progress**: finished find min area to cover all ones II, longest subarray of ones after deleting one elt(1493)
-**Thoughts:** look at other approaches to min area problem(i did brute force i think?), uses sliding window+2 pointer ,found a dsa pattern flowchart, will see if it is of any help
+**Thoughts:** look at other approaches to min area problem(i did brute force i think?), uses sliding window+2 pointer ,found a dsa pattern flowchart. For the min area II propblem, maybe concept of disjoint sets could be used?(need to look into it further)
 **Link(s) to work**
 
 ### Day 9: August 25,2025(Monday)
@@ -59,9 +59,16 @@
 
 ### Day 10: August 26,2025(Tuesday)
 
-**Today's Progress**: search a 2d matrix lc,
+**Today's Progress**: search a 2d matrix lc
 **Thoughts:** flattened and performed binary search.
 **Link(s) to work**
+
+### Day 11: August 27,2025(Wednesday)
+
+**Today's Progress**: count inversions gfg, reverse pairs, revised mergesort
+**Thoughts:** count inversion uses merge sort but before the merging step, count the number of inversions using mid-left+1 and return that(so the change is made in merge step). In reverse pairs, we use merge sort again but there is an additional function right before merging and after sorting countpairs(it keeps the cnt variable and updates cnt+=right-(mid+1))
+**Link(s) to work**
+
 
 
 
