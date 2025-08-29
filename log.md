@@ -66,19 +66,23 @@
 ### Day 11: August 27,2025(Wednesday)
 
 **Today's Progress**: count inversions gfg, reverse pairs, revised mergesort
+
 **Thoughts:** count inversion uses merge sort but before the merging step, count the number of inversions using mid-left+1 and return that(so the change is made in merge step). In reverse pairs, we use merge sort again but there is an additional function right before merging and after sorting countpairs(it keeps the cnt variable and updates cnt+=right-(mid+1))
 **Link(s) to work**
 
 ### Day 12: August 28,2025(Thursday)
 
 **Today's Progress**: defuse the bomb lc, count substr that satisfy k constraint lc , substr of size 3 with distinct char lc, Longest Nice Substring lc, find the k beauty of a number lc
+
 **Thoughts:** did the brute force approach first, then saw how sliding window could optimize it(we duplicate the array because it is a circular array so wrap around is easy and no negative indices). brute force for second problem is o(n3), prefix array o(n2) and sliding window is o(n). for the third problem, simple sliding window of fixed size and checking for duplicates. nice substring problem uses recursion + hashSet to divide the string at i and check recursively. for k beauty of number problem, we use sliding window, convert nums to string then the substrings back to nums to find out if it is a divisor of the string.
 **Link(s) to work**
 
 ### Day 11: August 29,2025(Friday)
 
-**Today's Progress**: minimum ecolors to get consecutive black blocks lc, max length substring with 2 occurences lc, longest harmonious subsequence lc
-**Thoughts:** uses sliding window and counts the number of whites in each window(min no is ans). second problem uses frequency map+ sliding window(freq map is used to keep the count of the char, then window slides based on the condition of freq). third problem uses frequency map( hashmap keep count of all elts of the array, then checks if i+1 element exists, if it does then it adds the freq count of i and freq count of i+1, maxlen variable keeps count of max such sum, methods like freq.keySet(), freq.containsKey(), freq.getOrDefault(num,0)); check out the tw pointer approach for this problem.
+**Today's Progress**: minimum ecolors to get consecutive black blocks lc, max length substring with 2 occurences lc, longest harmonious subsequence lc, alternating groups I lc, find x sum of all k long subarrays I lc,
+
+**Thoughts:** uses sliding window and counts the number of whites in each window(min no is ans). second problem uses frequency map+ sliding window(freq map is used to keep the count of the char, then window slides based on the condition of freq). third problem uses frequency map( hashmap keep count of all elts of the array, then checks if i+1 element exists, if it does then it adds the freq count of i and freq count of i+1, maxlen variable keeps count of max such sum, methods like freq.keySet(), freq.containsKey(), freq.getOrDefault(num,0)); check out the tw pointer approach for this problem. for alternating groups problem: used sliding window on circular array(either modulo or duplicate and extend the array). uses sliding window+ freq map for each window sorted in desc order of freq first then value or sliding window+ heap(priority queue).
+
 **Link(s) to work**
 
 
