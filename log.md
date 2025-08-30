@@ -85,6 +85,12 @@
 
 **Link(s) to work**
 
+### Day 12: August 30,2025(Saturday)
+
+**Today's Progress**: Contains Duplicate II, max avg subarray I
+
+**Thoughts:** uses hashSet to keep track in the window+ sliding window(remove i-k elt if window size>k). second problem just uses sliding window(compute first k sum then slide the window, find max sum then return avg of max sum).
+**Link(s) to work**
 
 
 
