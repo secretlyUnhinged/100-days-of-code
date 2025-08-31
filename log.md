@@ -96,7 +96,7 @@
 
 **Today's Progress**: maximum subarray with equal products, did linux commands
 
-**Thoughts:** one thing to look out for is the max lcm possible. looked into 2 different solutions, more about number theory than code. need to do more linux
+**Thoughts:** one thing to look out for is the max lcm possible. looked into 2 different solutions, more about number theory than code. need to do more linux. Did a bunch of leetcode (not so) easy questions on sliding window, next probably will do binary search, mixing it up with sliding window medium level questions.
 
 **Link(s) to work**https://github.com/MaheshShukla1/Linux-Basics-to-Advanced-Complete-Commands-Scripting-System-Administration-Guide/wiki/Linux%E2%80%90cheatsheet
 
