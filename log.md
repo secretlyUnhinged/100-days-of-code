@@ -92,6 +92,19 @@
 **Thoughts:** uses hashSet to keep track in the window+ sliding window(remove i-k elt if window size>k). second problem just uses sliding window(compute first k sum then slide the window, find max sum then return avg of max sum).
 **Link(s) to work**
 
+### Day 13: August 31,2025(Sunday)
+
+**Today's Progress**: maximum subarray with equal products, did linux commands
+
+**Thoughts:** one thing to look out for is the max lcm possible. looked into 2 different solutions, more abouth number theory than code. need to do more linux
+
+**Link(s) to work**https://github.com/MaheshShukla1/Linux-Basics-to-Advanced-Complete-Commands-Scripting-System-Administration-Guide/wiki/Linux%E2%80%90cheatsheet
+
+### Day 13: August 31,2025(Sunday)
+
+**Today's Progress**: maximum subarray with equal products
+
+**Thoughts:** one th
 
 
 
