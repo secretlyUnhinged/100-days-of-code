@@ -96,13 +96,13 @@
 
 **Today's Progress**: maximum subarray with equal products, did linux commands
 
-**Thoughts:** one thing to look out for is the max lcm possible. looked into 2 different solutions, more abouth number theory than code. need to do more linux
+**Thoughts:** one thing to look out for is the max lcm possible. looked into 2 different solutions, more about number theory than code. need to do more linux
 
 **Link(s) to work**https://github.com/MaheshShukla1/Linux-Basics-to-Advanced-Complete-Commands-Scripting-System-Administration-Guide/wiki/Linux%E2%80%90cheatsheet
 
-### Day 13: August 31,2025(Sunday)
+### Day 14: September 1,2025(Monday)
 
-**Today's Progress**: maximum subarray with equal products
+**Today's Progress**: 
 
 **Thoughts:** one th
 
