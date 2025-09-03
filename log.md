@@ -107,14 +107,14 @@
 
 ### Day 15: September 3,2025(Wednesday)
 
-**Today's Progress**:
+**Today's Progress**:counting bits lc, min cost climbing stairs lc
 
 **Thoughts:** 
 
 
 ### Day 16: September 4,2025(Thursday)
 
-**Today's Progress**: counting bits lc, min cost climbing stairs lc
+**Today's Progress**: 
 
 **Thoughts:** 
 
