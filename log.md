@@ -100,11 +100,23 @@
 
 **Link(s) to work**https://github.com/MaheshShukla1/Linux-Basics-to-Advanced-Complete-Commands-Scripting-System-Administration-Guide/wiki/Linux%E2%80%90cheatsheet
 
-### Day 14: September 1,2025(Monday)
+### Day 14: September 2,2025(Tuesday)
 
-**Today's Progress**: 
+**Today's Progress**: divisor game lc
 
-**Thoughts:** one th
+
+### Day 15: September 3,2025(Wednesday)
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+
+### Day 16: September 4,2025(Thursday)
+
+**Today's Progress**: counting bits lc, min cost climbing stairs lc
+
+**Thoughts:** 
 
 
 
