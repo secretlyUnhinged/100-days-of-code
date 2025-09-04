@@ -109,14 +109,16 @@
 
 **Today's Progress**:counting bits lc, min cost climbing stairs lc
 
-**Thoughts:** 
+**Thoughts:** for counting all ways type of problem, recursion is used then we can apply memoization and later, tabulation.
 
 
 ### Day 16: September 4,2025(Thursday)
 
-**Today's Progress**: 
+**Today's Progress**: combination sum iv lc, frog jump gfg, frog jump with k distance(follow up of frog jump gfg), maximum sum without adjacent elememts gfg/house robber lc, house robber II lc/house robber circular gfg
 
-**Thoughts:** 
+**Thoughts:** this can be done using recursion, recursion+dp or dp(tabulation): in dp approach, we create a dp array from 0 to target, it tells how many ways there are to reach target. dp[0]=1 because the only way to get 0 is choosing no num as all num elts>0, then we loop through num array and calculate the dp array for i to target and it is formed by i-nums[j],(dp[i]+=dp[i-nums[j]). frog jump gfg did using recursion+memoization, thenn tabulation. **there are rules to convert recursion to memoization and rules to write aany recursion.Rules for recursion: 1. write in terms of index  2. do all stuffs to the index  3. return min, max, or sum of step 2.  Rules to convert recursion to memoization: 1. declare dp array of n+1  2. then before returning store it in the dp array  3. check if dp[index]!=1 then return dp[index].** the frog jump ingfg is different from frog jump in lc, in gfg, we can jump only 1 or 2 units and we are supposed to reach the last elt of  the array and the cost of each jump is abs difference between the idx and idx-1 or idx-2. for the follow up questions, we run a for loop upto k and calculate the jumps(jump=f(idx-j)+abs(arr[idx]-arr[idx-j]), consider minsteps as min(jump, minSteps). for max sum w/o adj elts, i used recursion first then recursion+memoization, then tabulation, one thing to note is that for tabulation you have to add an edge case for neg index for pick elt. finally return dp[n-1] where dp[i]=max(opick,npick) as we have the option to either pick an elts or not pick an elt.
+
+
 
 
 
