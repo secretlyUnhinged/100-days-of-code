@@ -134,7 +134,7 @@
 ### Day 19: September 7,2025(Sunday)
 
 **Today's Progress**:zig zag traversal of binary tree lc, boundary traversal of binary tree gfg, bunch of sql 50 lc
-**Thoughts:** same as level order traversal jut add a flag to keep track of when to reverse the order, .addLast is normal order and .addFirst is the reversed order(revise the code once again).check the code for biggest single number again, why we used a subquery instead of a single main query.
+**Thoughts:** same as level order traversal jut add a flag to keep track of when to reverse the order, .addLast is normal order and .addFirst is the reversed order(revise the code once again).check the code for biggest single number again, why we used a subquery instead of a single main query. check why we need join on itself in ques the number of employees which report to each employee (1731 lc sql).
 
 
 
