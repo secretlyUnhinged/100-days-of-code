@@ -141,3 +141,9 @@
 **Today's Progress**:sql 50 lc
 
 **Thoughts:** bunch of easy sql problems
+
+### Day 20: September 10,2025(Wednesday)
+
+**Today's Progress**:sql 50 lc, recursion patterns all susequence with sum k, one subsequence sum k, count of subsequences sum k
+
+**Thoughts:** check out strivers lec 7 on recursion and note down the patterns here.
