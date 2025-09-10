@@ -142,7 +142,7 @@
 
 **Thoughts:** bunch of easy sql problems
 
-### Day 20: September 10,2025(Wednesday)
+### Day 21: September 10,2025(Wednesday)
 
 **Today's Progress**:sql 50 lc, recursion patterns all susequence with sum k, one subsequence sum k, count of subsequences sum k
 
