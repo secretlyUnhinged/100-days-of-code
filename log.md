@@ -147,3 +147,9 @@
 **Today's Progress**:sql 50 lc, recursion patterns all susequence with sum k, one subsequence sum k, count of subsequences sum k
 
 **Thoughts:** check out strivers lec 7 on recursion and note down the patterns here.
+
+### Day 22: September 13,2025(Saturday)
+
+**Today's Progress**: convert string to palindrome, word avg, operations on binary string, find the min missing char
+
+**Thoughts:** I was able to solve these easily(accenture training)
