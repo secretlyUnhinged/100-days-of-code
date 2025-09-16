@@ -158,3 +158,13 @@
 
 **Thoughts: converting memoization to tabulation:- declare base case(usually dp[0][0]. then compress all states in for loop(s). then just copy the recursion and write** did recursion->memoization->tabulation. **if there is a prev row or prev col then space optimization is possible**
 Drawing out the recursion tree helped me understand the edge cases properly and how to efficiently handle them for min path sum.
+
+### Day 24: September 15,2025(Monday)
+
+**Today's Progress**: triangle lc
+
+
+### Day 25: September 16,2025(Tuesday)
+
+**Today's Progress**: palindromic substrings
+
