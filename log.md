@@ -174,7 +174,7 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 
 **Today's Progress**: cherry picking 3d dp, max falling path sum 2d dp
 
-**Thoughts:** revise cherry picking again
+**Thoughts:** revise cherry picking again, do 1193 sql
 
 Start six problems per day, by next year same time, should finish 2190 problems. 
 
