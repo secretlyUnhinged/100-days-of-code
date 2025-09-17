@@ -166,5 +166,14 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 
 ### Day 25: September 16,2025(Tuesday)
 
-**Today's Progress**: palindromic substrings
+**Today's Progress**: palindromic substrings lc
+
+**Thoughts:** re solve
+
+### Day 26: September 17,2025(Wednesday)
+
+**Today's Progress**: cherry picking 3d dp, max falling path sum 2d dp
+
+**Thoughts:** revise cherry picking again
+
 
