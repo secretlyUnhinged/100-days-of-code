@@ -176,4 +176,6 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 
 **Thoughts:** revise cherry picking again
 
+Start six problems per day, by next year same time, should finish 2190 problems. 
+
 
