@@ -174,12 +174,16 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 
 **Today's Progress**: cherry picking 3d dp, max falling path sum 2d dp
 
-### Day 26: September 18,2025(Thursday)
+### Day 27: September 18,2025(Thursday) **Starting today, and by next year same day, finish 2190 problems**
 
-**Today's Progress**: Subset Sum Equal To K coding ninja
+**Today's Progress**: Subset Sum Equal To K coding ninja,partition subset equal sum lc, Array partition with minimum difference coding ninja
 
-**Thoughts:** 2189 to go
+
+**Thoughts:** 2187 to go
 revise how the conversion from memoization to tabulation works 
+second problem uses the same logic as the first problem, just check if there exists a subsequence with totalSum of array/2.
+third problem smartest intuition: it is obvious that we only need one subsequence and the other will be its complement(totsum-subseq sum), but
+instead of writing a new recursion, we could just use the exact same method used in the subset target sum problem(tabulation), notice how the table filling is done, here each row in dp[idx][target] i.e idx represents the index in the array, and a particular row tells whether target sum is achievable using the elements till idx of array. so we look at the last row and all the values that are true for target values, we consider only those values, and their complements and hence we can calculate min abs diff. We would also notice that we need to only calculate for half of the total sum.(as p1 might have 0,3,2 + p2 at same time=12,9,10 and p2 will also have 0,3,2 at one point, while p1 has 12,9,10 if target sum is 12).
 
 **Link(s) to work** https://www.naukri.com/code360/problems/subset-sum-equal-to-k_1550954?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
 
