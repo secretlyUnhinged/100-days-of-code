@@ -179,7 +179,9 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 **Today's Progress**: Subset Sum Equal To K coding ninja
 
 **Thoughts:** 2189 to go
+revise how the conversion from memoization to tabulation works 
 
+**Link(s) to work** https://www.naukri.com/code360/problems/subset-sum-equal-to-k_1550954?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
 
 
 
