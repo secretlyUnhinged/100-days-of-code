@@ -174,8 +174,12 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 
 **Today's Progress**: cherry picking 3d dp, max falling path sum 2d dp
 
-**Thoughts:** revise cherry picking again, do 1193 sql
+### Day 26: September 18,2025(Thursday)
 
-Start six problems per day, by next year same time, should finish 2190 problems. 
+**Today's Progress**: Subset Sum Equal To K coding ninja
+
+**Thoughts:** 2189 to go
+
+
 
 
