@@ -176,10 +176,11 @@ Drawing out the recursion tree helped me understand the edge cases properly and 
 
 ### Day 27: September 18,2025(Thursday) **Starting today, and by next year same day, finish 2190 problems**
 
-**Today's Progress**: Subset Sum Equal To K coding ninja,partition subset equal sum lc, Array partition with minimum difference coding ninja
+**Today's Progress**: 2187 to go--
+Subset Sum Equal To K coding ninja,partition subset equal sum lc, Array partition with minimum difference coding ninja
 
 
-**Thoughts:** 2187 to go
+**Thoughts:** 
 revise how the conversion from memoization to tabulation works 
 second problem uses the same logic as the first problem, just check if there exists a subsequence with totalSum of array/2.
 third problem smartest intuition: it is obvious that we only need one subsequence and the other will be its complement(totsum-subseq sum), but
@@ -187,5 +188,7 @@ instead of writing a new recursion, we could just use the exact same method used
 
 **Link(s) to work** https://www.naukri.com/code360/problems/subset-sum-equal-to-k_1550954?utm_source=chatgpt.com&leftPanelTabValue=PROBLEM
 
+### Day 28: September 19,2025(Friday) **finish 2190 problems**
 
+**Today's Progress**: 2186 to go-- count subsequences with sum k coding ninja, 
 
