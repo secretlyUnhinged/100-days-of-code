@@ -190,5 +190,5 @@ instead of writing a new recursion, we could just use the exact same method used
 
 ### Day 28: September 19,2025(Friday) **finish 2190 problems**
 
-**Today's Progress**: 2185 to go-- count subsequences with sum k coding ninja, partition with given difference coding ninja, plus one lc
+**Today's Progress**: 2183 to go-- count subsequences with sum k coding ninja, partition with given difference coding ninja, plus one lc,length of last word lc
 
