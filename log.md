@@ -198,5 +198,5 @@ instead of writing a new recursion, we could just use the exact same method used
 
 ### Day 30: September 21,2025(Sunday) **finish 2190 problems**
 
-**Today's Progress**: 2181 to go-- 0/1 knapsack,
+**Today's Progress**: 2180 to go-- 0/1 knapsack, palindromic number lc
 
