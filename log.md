@@ -192,3 +192,11 @@ instead of writing a new recursion, we could just use the exact same method used
 
 **Today's Progress**: 2183 to go-- count subsequences with sum k coding ninja, partition with given difference coding ninja, plus one lc,length of last word lc
 
+### Day 29: September 20,2025(Saturday) **finish 2190 problems**
+
+**Today's Progress**: 2182 to go-- sql 50 lc
+
+### Day 30: September 21,2025(Sunday) **finish 2190 problems**
+
+**Today's Progress**: 2181 to go-- 0/1 knapsack,
+
