@@ -202,3 +202,10 @@ instead of writing a new recursion, we could just use the exact same method used
 
 **Thoughts:** try tabulation of 0/1 knapsack. tried a different approach for palindromic number(using reversing half the num and segregating cases for odd and even no of digits)
 
+### Day 31: September 25,2025(Thursday) **finish 2190 problems**
+
+**Today's Progress**: 2179 to go-- Coin change lc
+**Thoughts:** 
+tried tabulation of 0/1 knapsack and i need more practice on converting the base case of recursion+memoization to tabulation.
+**coin change is infinite supplies pattern, so in this case, thumb rule is to not reduce idx of pick, we need to check on the same idx till it no longer satifies the condition.**
+
