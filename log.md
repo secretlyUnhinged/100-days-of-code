@@ -210,3 +210,9 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 **coin change is infinite supplies pattern, so in this case, thumb rule is to not reduce idx of pick, we need to check on the same idx till it no longer satifies the condition.** spiral matrix checks implementation skills and clean code, only one waay of solving it(use top, bottom, left, right) and check condition for edge cases like only row or only column. 2 ways to solve max subarray sum: find all the subarray(could use recursion with sum calc(O(n**2))); kadane's algo where you keep track of max sum and 1: continue adding elts to subarray if maxSum  is positive
 2. start over(new subarray) if the maxSum becomes negative. For search in sorted matrix, 3 ways: 1. iterate through all, 2. use binary search on rows, 3. staircase method(start at top right corner and check against given target and keep eliminating rows or columns as required.) Rotate an array by d can be done in 2 ways: 1. use a temp arrayto store the d elements and shift accordingly. 2. reverse thrice(once on d, n-d, whole array). **need to revise trapping rain water prefixSum, suffixSum logic and optimal two pointer approach.**
 
+
+### Day 32: September 22,2025(Sunday) **finish 2190 problems**
+
+**Today's Progress**: 2173 to go-- 
+
+**Thoughts:** 
