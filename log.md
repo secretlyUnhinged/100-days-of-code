@@ -211,7 +211,7 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 2. start over(new subarray) if the maxSum becomes negative. For search in sorted matrix, 3 ways: 1. iterate through all, 2. use binary search on rows, 3. staircase method(start at top right corner and check against given target and keep eliminating rows or columns as required.) Rotate an array by d can be done in 2 ways: 1. use a temp arrayto store the d elements and shift accordingly. 2. reverse thrice(once on d, n-d, whole array). **need to revise trapping rain water prefixSum, suffixSum logic and optimal two pointer approach.**
 
 
-### Day 32: September 22,2025(Sunday) **finish 2190 problems**
+### Day 32: September 26,2025(Sunday) **finish 2190 problems**
 
 **Today's Progress**: 2173 to go-- 
 
