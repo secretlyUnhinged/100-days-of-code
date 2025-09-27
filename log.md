@@ -216,3 +216,15 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 **Today's Progress**: 2172 to go-- Minimum coins gfg
 
 **Thoughts:** need to learn space optimization as min coins did not pass all test cases due to the space dp table took.
+
+### Day 33: September 27,2025(Saturday) **finish 2190 problems**
+
+**Today's Progress**: 2168 to go-- Subarray with least average gfg, convert array into zig zag fashion gfg, find duplicates in the array gfg, coin change II lc
+
+**Thoughts:**  Write the sliding window problems template in the notebook
+
+### Day 34: September 28,2025(Sunday) **finish 2190 problems**
+
+**Today's Progress**: 2168 to go-- 
+
+**Thoughts:** 
