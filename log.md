@@ -225,6 +225,6 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 ### Day 34: September 28,2025(Sunday) **finish 2190 problems**
 
-**Today's Progress**: 2168 to go-- 
+**Today's Progress**: 2166 to go-- rod cutting problem coding ninja, lcs lc,
 
 **Thoughts:** 
