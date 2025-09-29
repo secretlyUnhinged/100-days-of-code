@@ -231,9 +231,9 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 ### Day 35: September 29,2025(Monday) **finish 2190 problems**
 
-**Today's Progress**: 2163 to go-- longest common substring coding ninja,
+**Today's Progress**: 2157 to go-- longest common substring coding ninja, longest palindromic subsequence coding ninja,longest palindromic substring lc, min insertions to make a string palindrome coding ninja, min operations to convert a string to another(del/insert allowed only),maximum points you can obtain from cards lc,longest substring w/o repeating characters lc
 
-**Thoughts:** 
+**Thoughts:** 1st problem uses lcs with a slight modification, only matching char are considered(if(str1.charAt(i-1)==str2.charAt(j-1) dp[i][j]=1+dp[i-1][j-1]), no checking on either strings, if they dont match then return 0(else dp[i][j]=0). 2nd prob, we are given one string string as input but we take the reverse of str1 as str2 and apply lcs, it is that simple. for this problem min insertions, we use longest palindromic subsequence, we just return str.length()-lps. fpr min operations problem, we return n+m-2*lcs. for max card problem, used two pointer+sliding window. 
 
 
 
