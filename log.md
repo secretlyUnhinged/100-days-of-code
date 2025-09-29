@@ -229,4 +229,11 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 **Thoughts:**  for LCS, to convert to tabulation, we do shifting of indices from memoization. **NOTE: remember that in dp on strings, better to initialize dp array as n+1, m+1 and keep f(0,0) i.e first row and column as the base case since -1 is not possible.** Shortest supersequence can be solved using lcs as base.
 
+### Day 35: September 29,2025(Monday) **finish 2190 problems**
+
+**Today's Progress**: 2163 to go-- longest common substring coding ninja,
+
+**Thoughts:** 
+
+
 
