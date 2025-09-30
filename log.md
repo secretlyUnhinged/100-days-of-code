@@ -235,5 +235,11 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 **Thoughts:** 1st problem uses lcs with a slight modification, only matching char are considered(if(str1.charAt(i-1)==str2.charAt(j-1) dp[i][j]=1+dp[i-1][j-1]), no checking on either strings, if they dont match then return 0(else dp[i][j]=0). 2nd prob, we are given one string string as input but we take the reverse of str1 as str2 and apply lcs, it is that simple. for this problem min insertions, we use longest palindromic subsequence, we just return str.length()-lps. fpr min operations problem, we return n+m-2*lcs. for max card problem, used two pointer+sliding window. For longest substring w/o repeating characters lc:- Brute force approach- generate all the substrings using 2 for loops and use hashSet to check whether a character has been repeated.
 
+### Day 36: September 30,2025(Tuesday) **finish 2190 problems**
+
+**Today's Progress**: 2169 to go--Iterative inorder traversal lc, iterative preorder traversal lc, iterative postorder ttraversal lc
+
+**Thoughts:** preorder is the easiest, keep revising the post order traversal logic(using 2 stacks).
+
 
 
