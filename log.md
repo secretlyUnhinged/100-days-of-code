@@ -122,7 +122,7 @@
 
 **Today's Progress**: ninja's training 2d dp, max depth of a tree lc, binary balanced tree lc, diameter of binary tree lc
 
-**Thoughts:** we take day and last as the index, last is the last task perform, then we find that day=0 is the base case and then we can use recursion+memoization. for tabulation, check out the base case, in this problem we have four cases as day=0 but the task value can be 0,1,2,3 so dp[0][0],dp[0][1], so on. max depth of tree can be done using level order traversal or recursion, i used recursion where we traverse the left subtree and right subtree, then the depth is 1+max(left_height,right_height). for the binary balanced tree, we used the same concept of findin left and right height by recursion but we check if abs difference >1, if yes return -1 else return depth, then -1 is false else true. for the diameter of binary tree, we need max distance between any two nodes, so we use the same concept of left height and right height by recursion but we use an array called diam of size 1 to store the max diam per iteration(using a var instead of array doesnt work as we need to pass by reference not value), then we do diam[0]=max(diam[0],left_height+right_height) and return the depth as usual (1+max(left_height,right_height).
+**Thoughts:** we take day and last as the index, last is the last task perform, then we find that day=0 is the base case and then we can use recursion+memoization. for tabulation, check out the base case, in this problem we have four cases as day=0 but the task value can be 0,1,2,3 so dp[0][0],dp[0][1], so on. max depth of tree can be done using level order traversal or recursion, i used recursion where we traverse the left subtree and right subtree, then the depth is 1+max(left_height,right_height). for the binary balanced tree, we used the same concept of finding left and right height by recursion but we check if abs difference >1, if yes return -1 else return depth, then -1 is false else true. for the diameter of binary tree, we need max distance between any two nodes, so we use the same concept of left height and right height by recursion but we use an array called diam of size 1 to store the max diam per iteration(using a var instead of array doesnt work as we need to pass by reference not value), then we do diam[0]=max(diam[0],left_height+right_height) and return the depth as usual (1+max(left_height,right_height).
 
 
 ### Day 18: September 6,2025(Saturday)
@@ -237,7 +237,7 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 ### Day 36: September 30,2025(Tuesday) **finish 2190 problems**
 
-**Today's Progress**: 2169 to go--Iterative inorder traversal lc, iterative preorder traversal lc, iterative postorder ttraversal lc
+**Today's Progress**: 2168 to go--Iterative inorder traversal lc, iterative preorder traversal lc, iterative postorder traversal lc, edit distance lc
 
 **Thoughts:** preorder is the easiest, keep revising the post order traversal logic(using 2 stacks).
 
