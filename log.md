@@ -237,7 +237,7 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 ### Day 36: September 30,2025(Tuesday) **finish 2190 problems**
 
-**Today's Progress**: 2151 to go--Iterative inorder traversal lc, iterative preorder traversal lc, iterative postorder traversal lc, edit distance lc,wildcard matching lc
+**Today's Progress**: 2149 to go--Iterative inorder traversal lc, iterative preorder traversal lc, iterative postorder traversal lc, edit distance lc,wildcard matching lc, best time to buy/sell stocks lc,best time to buy/sell stocks II lc
 
 **Thoughts:** preorder is the easiest, keep revising the post order traversal logic(using 2 stacks).Base cases of edit distance is kind of tricky.
 
