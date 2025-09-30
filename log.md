@@ -239,7 +239,7 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 **Today's Progress**: 2168 to go--Iterative inorder traversal lc, iterative preorder traversal lc, iterative postorder traversal lc, edit distance lc
 
-**Thoughts:** preorder is the easiest, keep revising the post order traversal logic(using 2 stacks).
+**Thoughts:** preorder is the easiest, keep revising the post order traversal logic(using 2 stacks).Base cases of edit distance is kind of tricky.
 
 
 
