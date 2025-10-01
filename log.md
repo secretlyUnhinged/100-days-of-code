@@ -243,8 +243,8 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 ### Day 37: October 1,2025(Wednesday) **finish 2190 problems**
 
-**Today's Progress**: 2148 to go--best time to buy and sell stock III lc
-**Thoughts:** 
+**Today's Progress**: 2147 to go--best time to buy and sell stock III lc, Longest Increasing Subsequence lc
+**Thoughts:** 1st prob just keep an extra changing parameter count to keep track of complete transactions, so it becomes 3d dp in memoization/tabulation.
 
 
 
