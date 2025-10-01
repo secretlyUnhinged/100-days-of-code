@@ -241,5 +241,10 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 **Thoughts:** preorder is the easiest, keep revising the post order traversal logic(using 2 stacks).Base cases of edit distance is kind of tricky.
 
+### Day 37: October 1,2025(Wednesday) **finish 2190 problems**
+
+**Today's Progress**: 2148 to go--best time to buy and sell stock III lc
+**Thoughts:** 
+
 
 
