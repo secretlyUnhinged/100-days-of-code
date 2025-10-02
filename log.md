@@ -248,5 +248,5 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 
 ### Day 38: October 2,2025(Thursday) **finish 2190 problems**
 
-**Today's Progress**: 2147 to go--Longest Increasing Subsequence lc(another 2 approaches)
-**Thoughts:**  tabulation for backtrackin g to print the lis and binary search method is the most optimised approach to get the length of lis.
+**Today's Progress**: 2147 to go--Longest Increasing Subsequence lc(another 2 approaches), revised ninja training coding ninjas
+**Thoughts:**  tabulation for backtrackin g to print the lis and binary search method is the most optimised approach to get the length of lis. Need to revise ninja training again.
