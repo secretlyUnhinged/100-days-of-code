@@ -244,7 +244,7 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 ### Day 37: October 1,2025(Wednesday) **finish 2190 problems**
 
 **Today's Progress**: 2147 to go--best time to buy and sell stock III lc, Longest Increasing Subsequence lc
-**Thoughts:** 1st prob just keep an extra changing parameter count to keep track of complete transactions, so it becomes 3d dp in memoization/tabulation.
+**Thoughts:** 1st prob just keep an extra changing parameter count to keep track of complete transactions, so it becomes 3d dp in memoization/tabulation. for problems like the second one, where we go up till -1 in recursion, but in dp table that is not possible, so we shift the indices from 0 to 1 only in the dp table for memoization like: if dp[idx][prev] becomes dp[idx][prev+1] so on( only prev changes as prev reaches till -1) and we declare the dp as [n][n+1].
 
 
 
