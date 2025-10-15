@@ -244,9 +244,24 @@ tried tabulation of 0/1 knapsack and i need more practice on converting the base
 ### Day 37: October 1,2025(Wednesday) **finish 2190 problems**
 
 **Today's Progress**: 2147 to go--best time to buy and sell stock III lc, Longest Increasing Subsequence lc
+
 **Thoughts:** 1st prob just keep an extra changing parameter count to keep track of complete transactions, so it becomes 3d dp in memoization/tabulation. for problems like the second one, where we go up till -1 in recursion, but in dp table that is not possible, so we shift the indices from 0 to 1 only in the dp table for memoization like: if dp[idx][prev] becomes dp[idx][prev+1] so on( only prev changes as prev reaches till -1) and we declare the dp as [n][n+1].
 
 ### Day 38: October 2,2025(Thursday) **finish 2190 problems**
 
 **Today's Progress**: 2147 to go--Longest Increasing Subsequence lc(another 2 approaches), revised ninja training coding ninjas
+
 **Thoughts:**  tabulation for backtrackin g to print the lis and binary search method is the most optimised approach to get the length of lis. Need to revise ninja training again.
+
+### Day 39: October 14,2025(Tuesday) **finish 2190 problems**
+
+**Today's Progress**: revised bt: max depth, balanced bt,diameter, max path sum, identical trees, zig zag traversal
+
+**Thoughts:** max depth is finding height of the tree, so we travese till leaf, calculating lh and rh of nodes, the max value +1 is returned.
+for balanced bt height(left)-height(right)<=1, use the code of maxdepth, just add the condition. diameter(longest path between two nodes), use ht code but keep track of max(maxi, lh+rh). 
+
+### Day 40: October 15,2025(Wednesday) **finish 2190 problems**
+
+**Today's Progress**: 2141 to go-- revised bt: boundary traversal, vertical traversal, top view, bottom view, right/ left view, symmetrical bt
+
+**Thoughts:**  boundary traversal we traverse all left nodes, if no left child then right child exculding leaf nodes, then leaf nodes via inorder traversal and finally right side in reverse order excluding leaf nodes.top, bottom view use vertical traversal concept(vertical lines -1,0,1, etc). right/left view (recursive traversal like preorder but since in right traversal we need first node from right, we use root, right, left traversal instead). for symmetrical check, we use recursive traversal, the left tree should superimpose on the right tree, so when we traverse the left tree left, we traverse the right tree right, similarly traverse left tree right while traverse right tree left.
