@@ -265,3 +265,23 @@ for balanced bt height(left)-height(right)<=1, use the code of maxdepth, just ad
 **Today's Progress**: 2141 to go-- revised bt: boundary traversal, vertical traversal, top view, bottom view, right/ left view, symmetrical bt
 
 **Thoughts:**  boundary traversal we traverse all left nodes, if no left child then right child exculding leaf nodes, then leaf nodes via inorder traversal and finally right side in reverse order excluding leaf nodes.top, bottom view use vertical traversal concept(vertical lines -1,0,1, etc). right/left view (recursive traversal like preorder but since in right traversal we need first node from right, we use root, right, left traversal instead). for symmetrical check, we use recursive traversal, the left tree should superimpose on the right tree, so when we traverse the left tree left, we traverse the right tree right, similarly traverse left tree right while traverse right tree left.
+
+### Day 41: October 16,2025(Thursday) **finish 2190 problems**
+
+**Today's Progress**: 2138 to go-- revised bt: print root to node path, LCA, max width of a binary tree
+**Thoughts:** 
+
+### Day 42: October 17,2025(Friday) **finish 2190 problems**
+
+**Today's Progress**: 2137 to go-- revised bt: children sum property bt, 
+**Thoughts:** 
+
+### Day 43: October 18,2025(Saturday) **finish 2190 problems**
+
+**Today's Progress**: 2137 to go-- revised bt:
+**Thoughts:** 
+
+### Day 44: October 19,2025(Sunday) **finish 2190 problems**
+
+**Today's Progress**: 2137 to go-- revised bt:
+**Thoughts:** 
