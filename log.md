@@ -273,15 +273,32 @@ for balanced bt height(left)-height(right)<=1, use the code of maxdepth, just ad
 
 ### Day 42: October 17,2025(Friday) **finish 2190 problems**
 
-**Today's Progress**: 2137 to go-- revised bt: children sum property bt, 
+**Today's Progress**: 2135 to go-- revised bt: children sum property bt, print all nodes from a k distance, min time taken to burn a tree from node
 **Thoughts:** 
 
 ### Day 43: October 18,2025(Saturday) **finish 2190 problems**
 
-**Today's Progress**: 2137 to go-- revised bt:
+**Today's Progress**: 2135 to go-- revised bt:
 **Thoughts:** 
 
 ### Day 44: October 19,2025(Sunday) **finish 2190 problems**
 
-**Today's Progress**: 2137 to go-- revised bt:
+**Today's Progress**: 2135 to go-- revised bt:
 **Thoughts:** 
+
+
+### Day 45: October 20,2025(Monday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+### Day 46: October 21,2025(Tuesday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+### Day 47: October 22,2025(Wednesday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
