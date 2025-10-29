@@ -297,7 +297,55 @@ for balanced bt height(left)-height(right)<=1, use the code of maxdepth, just ad
 **Today's Progress**: 2135 to go-- revised bt:
 **Thoughts:** 
 
+
 ### Day 47: October 22,2025(Wednesday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 48: October 23,2025(Thursday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 49: October 24,2025(Friday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 50: October 25,2025(Saturday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 51: October 26,2025(Sunday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 52: October 27,2025(Monday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+### Day 53: October 28,2025(Tuesday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 54: October 29,2025(Wednesday) **finish 2190 problems**
+
+**Today's Progress**: 2135 to go-- revised bt:
+**Thoughts:** 
+
+
+### Day 55: October 30,2025(Thursday) **finish 2190 problems**
 
 **Today's Progress**: 2135 to go-- revised bt:
 **Thoughts:** 
