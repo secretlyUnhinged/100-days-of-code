@@ -278,8 +278,8 @@ for balanced bt height(left)-height(right)<=1, use the code of maxdepth, just ad
 
 ### Day 43: October 18,2025(Saturday) **finish 2190 problems**
 
-**Today's Progress**: 2135 to go-- revised bt:
-**Thoughts:** 
+**Today's Progress**: 2133 to go-- revised bt: construct unique bt from preorder and inorder, construct unique bt from inorder and postorder; learnt about segment trees(used to solve range problems)
+**Thoughts:**  store inorder in hashmap
 
 ### Day 44: October 19,2025(Sunday) **finish 2190 problems**
 
